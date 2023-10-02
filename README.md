@@ -16,3 +16,5 @@ Over the last decade, we have seen a shift in people going from a completely off
 - CSS
 - Truffle
 - Meta Mask
+
+Decentralization: Traditional data storage systems rely on central servers controlled by a single entity, making them vulnerable to hacking, data manipulation, and single points of failure. Blockchain, however, is decentralized, meaning the data is stored across a network of computers (nodes). This decentralization enhances security and eliminates the risk of a central point of failure.
